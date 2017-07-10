@@ -8,6 +8,18 @@ padding:0;
 body{
 background-color:gray;
 }
+
+.breadcrumbs li{
+                display: inline;
+                list-style-type: none;
+}
+.breadcrumbs li:before{
+       content: " > ";
+}
+.breadcrumbs li:first-child:before{
+       content:"";
+}
+
 header{
 background-color:lightgreen;
 }
