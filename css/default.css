@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+*{
+margin:0;
+padding:0;
+}
+
+body{
+background-color:gray;
+}
+header{
+background-color:lightgreen;
+}
+#main{
+background-color:lightblue;
+}
+#main2{
+background-color:lightgreen;
+}
+aside{
+background-color:lightblue;
+}
+footer{
+background-color:lightgreen;
+}
