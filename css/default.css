@@ -13,8 +13,8 @@ header{
   background-color:orange;
   position: absolute;
   left: 0;
-  top: 0;
-  width: 50%;
+  top: 50;
+  width: 100%;
   z-index: +1;
  }
 
