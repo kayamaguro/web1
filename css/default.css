@@ -20,7 +20,7 @@ header{
 
 #main{
   background-color:black;
-  width: calc(100%-200%);
+  width: calc(100% - 200px);
   min-width: 500px; 
   float: left;
  }
@@ -30,7 +30,6 @@ header{
   background-color:white;
   color:black;
   width: 240px;
-  height: 80px;
   margin: 5px;
   float: left;
   overflow: hidden;
