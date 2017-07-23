@@ -46,7 +46,7 @@ header{
   float: left;
  }
 aside{
-  background-color:blue;
+  background-color:lightblue;
   width: 200px; 
   float: right;
   position: relative;
@@ -54,7 +54,7 @@ aside{
   right: 10px;
  }
 footer{
-  background-color:purple;
+  background-color:orange;
   clear: both; 
  }
 
